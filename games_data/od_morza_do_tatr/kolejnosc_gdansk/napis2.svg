@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>napiso_obrazek_template copy 4</title>
+    <g id="napiso_obrazek_template-copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M192,0.5 C194.071068,0.5 195.946068,1.33946609 197.303301,2.69669914 C198.660534,4.05393219 199.5,5.92893219 199.5,8 L199.5,8 L199.5,192 C199.5,194.071068 198.660534,195.946068 197.303301,197.303301 C195.946068,198.660534 194.071068,199.5 192,199.5 L192,199.5 L8,199.5 C5.92893219,199.5 4.05393219,198.660534 2.69669914,197.303301 C1.33946609,195.946068 0.5,194.071068 0.5,192 L0.5,192 L0.5,8 C0.5,5.92893219 1.33946609,4.05393219 2.69669914,2.69669914 C4.05393219,1.33946609 5.92893219,0.5 8,0.5 L8,0.5 Z" id="Rectangle" stroke-opacity="0.5" stroke="#2F5266" fill="#FFFFFF"></path>
+        <text id="Purtek-na-dnie-morza" font-family="Poppins-Regular, Poppins" font-size="20" font-weight="normal" line-spacing="26" letter-spacing="0.75" fill="#263137">
+            <tspan x="65.965" y="91">Purtek </tspan>
+            <tspan x="22.5" y="117">na dnie morza</tspan>
+        </text>
+    </g>
+</svg>
